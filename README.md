@@ -1,6 +1,6 @@
 # 📊 Sales Tracking Dashboard in Excel
 
-![Dashboard Preview](Sales Dashboard.png)
+![Dashboard Preview](SalesDashboard.png)
 
 ## Overview
 This Sales Tracking Dashboard is built in **Microsoft Excel** and provides an interactive way to monitor sales performance across multiple dimensions, such as:
